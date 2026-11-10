@@ -1,4 +1,4 @@
-package org.hbrs.se1.ws26.exercises.uebung4.prototype.test;
+package se1.ws26.tests.uebung4;
 
 import org.hbrs.se1.ws26.exercises.uebung4.prototype.Container;
 import org.hbrs.se1.ws26.exercises.uebung4.prototype.ContainerException;
